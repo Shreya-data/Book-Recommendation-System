@@ -1,7 +1,5 @@
 # BOOK RECOMMENDATION SYSTEM
-These project is part of the “Machine Learning & Advanced Machine Learning” curriculum as capstone projects at AlmaBetter.
-
--- Project Status: [Completed]
+---
 ## Objective
 The main objective is to create a book recommendation system for users. Recommender systems are really critical in some industries as they can generate a huge amount of income when they are efficient or also be a way to stand out significantly from competitors.
 
@@ -9,7 +7,6 @@ The main objective is to create a book recommendation system for users. Recommen
 * Descriptive Statistics
 * Data Visualization
 * Machine Learning
-* Technologies
 * Python
 * Pandas
 * Numpy
